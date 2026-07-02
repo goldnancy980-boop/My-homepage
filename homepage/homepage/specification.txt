@@ -1,0 +1,18 @@
+HTML Tags used: HTML, head, link, title, script, nav, div, a, p, button, body, u1, li.
+CSS Properties Used are:
+padding: 20px
+background-image
+background-size: cover
+background-position: center
+background-repeat: no-repeat
+background-attachment: fixed
+text-align: center
+font-size: 18px
+font-style: italic
+font-family: Georgia, serif
+color: black
+margin-right: 10px
+
+ Bootstrap were used to create a responsive navigation bar and improve the overall appearence of the website.
+
+ javascript was used to make the website more interactive by enabling typewriting effect and changing background image.
