@@ -6,7 +6,7 @@ This repository contains my solution to the **Homepage** problem set from Harvar
 
 This website serves as my personal portfolio, introducing my journey into technology and computer science. 
 
-*   **My Goal:** I'M 22 years old from Nigeria, i'm an aspiring Software Engineering student, i decided to take CS50 course to gain prerequisite knowledge in computer science. I have always dreamed of being a tech girl, guess i'm working towards it.
+*   **My Goal:** I'M 22 years old from Nigeria, i'm an aspiring AI Computer Engineering student, i decided to take CS50 course to gain prerequisite knowledge in computer science. I have always dreamed of being a tech girl, guess i'm working towards it.
 *   **Design & Layout:** Built using HTML5 and stylized using clean custom CSS along with responsive design components from the Bootstrap framework.
 
 ## Website Structure & Files
@@ -14,7 +14,7 @@ This website serves as my personal portfolio, introducing my journey into techno
 The project consists of interconnected pages and media assets organized as follows:
 
 *   **`index.html`** - The primary landing page welcoming visitors to the site.
-*   **`about.html`** - An introduction page sharing my story as an aspiring Software Engineering student.
+*   **`about.html`** - An introduction page sharing my story as an aspiring AI Coomputer Engineering student.
 *   **`hobbies.html`** - A page highlighting my personal interests and activities outside of programming.
 *   **`contact.html`** - A direct page detailing my professional email and contact information for networking.
 *   **`styles.css`** - Custom style sheets handling custom layout adjustments, containers, and aesthetics.
