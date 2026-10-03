@@ -14,7 +14,7 @@ This website serves as my personal portfolio, introducing my journey into techno
 The project consists of interconnected pages and media assets organized as follows:
 
 *   **`index.html`** - The primary landing page welcoming visitors to the site.
-*   **`about.html`** - An introduction page sharing my story as an aspiring AI Coomputer Engineering student.
+*   **`about.html`** - An introduction page sharing my story as an aspiring AI Computer Engineering student.
 *   **`hobbies.html`** - A page highlighting my personal interests and activities outside of programming.
 *   **`contact.html`** - A direct page detailing my professional email and contact information for networking.
 *   **`styles.css`** - Custom style sheets handling custom layout adjustments, containers, and aesthetics.
