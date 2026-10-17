@@ -6,7 +6,7 @@ This repository contains my solution to the **Homepage** problem set from Harvar
 
 This website serves as my personal portfolio, introducing my journey into technology and computer science. 
 
-*   **My Goal:** I'M 22 years old from Nigeria, i'm an aspiring AI Software Engineering student, i decided to take CS50 course to gain prerequisite knowledge in computer science. I have always dreamed of being a tech girl, guess i'm working towards it.
+*   **My Goal:** I'M 22 years old from Nigeria, i'm an aspiring AI Software Engineering student, i decided to take CS50 course to gain prerequisite knowledge in programming language. I have always dreamed of being a tech girl, guess i'm working towards it.
 *   **Design & Layout:** Built using HTML5 and stylized using clean custom CSS along with responsive design components from the Bootstrap framework.
 
 ## Website Structure & Files
