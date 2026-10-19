@@ -1,0 +1,22 @@
+body{
+    padding: 20px;
+    background-image: url('lorel.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+h1 {
+    text-align: center;
+}
+p {
+    font-size: 18px;
+    font-style: italic;
+    font-family: Georgia, serif;
+    color: black;
+}
+a {
+    margin-right: 10px;
+}
