@@ -1,44 +1,60 @@
 # CS50x - Homepage Project
 
-This repository contains my solution to the **Homepage** problem set from Harvard's CS50x course. The project involves building a multi-page responsive website using HTML, CSS, JavaScript, and the Bootstrap framework.
+## About the Project
 
-##  About the Project
+This website is my personal portfolio, introducing my journey into technology and computer science. Built with HTML5, CSS3 and Bootstrap, it features a responsive design.
 
-This website serves as my personal portfolio, introducing my journey into technology and computer science. 
+## Project Structure
 
-*   **My Goal:** I'M 22 years old from Nigeria, i'm an aspiring AI Software Engineering student, i decided to take CS50 course to gain prerequisite knowledge in programming language. I have always dreamed of being a tech girl, guess i'm working towards it.
-*   **Design & Layout:** Built using HTML5 and stylized using clean custom CSS along with responsive design components from the Bootstrap framework.
+* `index.html` — Main landing page
+* `about.html` — About page
+* `hobbies.html` — Hobbies page
+* `contact.html` — Contact page
+* `styles.css` — Custom styling
+* `script.js` — JavaScript functionality
+* `specification.txt` — Project specifications
+* `lorel.jpeg` and `download.jpeg` — Image assets
 
-## Website Structure & Files
+## Technologies Used
 
-The project consists of interconnected pages and media assets organized as follows:
+* HTML5
+* CSS3
+* Bootstrap 5.3
+* JavaScript
 
-*   **`index.html`** - The primary landing page welcoming visitors to the site.
-*   **`about.html`** - An introduction page sharing my story as an aspiring AI Software Engineering student.
-*   **`hobbies.html`** - A page highlighting my personal interests and activities outside of programming.
-*   **`contact.html`** - A direct page detailing my professional email and contact information for networking.
-*   **`styles.css`** - Custom style sheets handling custom layout adjustments, containers, and aesthetics.
-*   **`script.js`** - JavaScript file handling frontend interactivity and animations (like the typewriter effect).
-*   **`specification.txt`** - Documentation detailing the project features and design requirements met for CS50x.
-*   **`lorel.jpeg` & `download.jpeg`** - High-quality image assets used across the site for styling and visual context.
+## How to Run
 
-##  Technologies Used
+### Option 1: GitHub Codespaces
 
-*   **HTML5** - Structured semantic markup for all web pages.
-*   **CSS3** - Custom styling for specialized layouts and image scaling.
-*   **Bootstrap 5.3** - Utilized for rapid responsive grids, containers, and navbar components.
-*   **JavaScript** - Custom client-side scripting to enhance page interactivity.
+1. Open the repository on GitHub.
 
-##  How to Run and Test Locally
+2. Click **Code** and select **Codespaces**.
 
-To open and test this website on your local machine, choose one of the following methods:
+3. Create a codespace on the `main` branch.
 
-### Method 1: Browser Double-Click
-1. Download or clone this repository to your computer.
-2. Locate the project folder and double-click the `index.html` file.
-3. It will automatically open in your default web browser (Chrome, Edge, Safari, etc.), allowing you to navigate through the tabs.
+4. Open the terminal and run:
 
-### Method 2: Live Server (VS Code Option)
-1. Open the project folder inside Visual Studio Code.
-2. If you have the **Live Server** extension installed, click the **Go Live** button in the bottom-right corner of the window.
-3. This hosts the site on a local server (typically `http://127.0.0.1:5500`), enabling auto-refresh whenever you update your code.
+   ```bash
+   python3 -m http.server 8000
+   ```
+
+5. Open the **Ports** tab.
+
+6. Find port `8000` and click **Open in Browser**.
+
+Make sure you run the command from the directory containing `index.html`. To stop the server, press `Ctrl + C` in the terminal.
+
+### Option 2: Open Locally
+
+1. Download or clone the repository.
+2. Open the project folder.
+3. Open `index.html` in a web browser.
+
+Using a local server is recommended for more reliable testing.
+
+## Learning Objectives
+
+* Build a multi-page website using HTML and CSS.
+* Create responsive layouts with Bootstrap.
+* Add interactivity using JavaScript.
+* Organize project files and test a website in a browser.
